@@ -1,0 +1,5 @@
+__pycache__/
+.Python
+test/
+venv/
+LLM-translate-config.ini
