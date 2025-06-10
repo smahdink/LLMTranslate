@@ -17,7 +17,7 @@ Translate your large PDF files with ease using the power of Large Language Model
 ---
 
 ## 🛠️ Installation Guide
-  * The commands you see in this guide can be executed inside a command line interface regardless of the OS (Linux, Windows, MacOS). But you need Python3 and pip installed beforehand.
+  * The commands you see in this guide can be executed inside a **Terminal** regardless of the OS (Linux, Windows, MacOS). But you need Python3 and pip installed beforehand.
 
 1.  **Clone the repository:**
     ```bash
