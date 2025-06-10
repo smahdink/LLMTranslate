@@ -1,6 +1,7 @@
 # 🌍 LLM Translate: Your Smart PDF Translator! 🚀
 
 Translate your large PDF files with ease using the power of Large Language Models! This project leverages OpenAI-compatible and Mistral APIs to provide accurate, context-aware translations to your language of choice.
+* You can see an example OCR and translation result in [Example.md](https://github.com/smahdink/LLMTranslate/blob/main/Example.md)
 
 ---
 
@@ -11,6 +12,7 @@ Translate your large PDF files with ease using the power of Large Language Model
 * **Structure Preservation:** Maintains the original document's formatting, numbers, measurements, and proper nouns. 📏
 * **Configurable API:** Supports both OpenAI-compatible and Mistral API endpoints, with API key management through a local configuration file, so that you can use your favourite LLM or even self-host! ⚙️
 * **Cost Reduction:** By using services like **OpenRouter** that provide free APIs for some models like the new `deepseek-r1-0528`, you can get great results with almost no expenses! 🤑
+
 
 ---
 
